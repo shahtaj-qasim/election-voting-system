@@ -1,4 +1,4 @@
-# election-voting-system
+# Election Voting System
 Election Voting System using Google App Engine Environment in Java
 
 ### Technologies used:
